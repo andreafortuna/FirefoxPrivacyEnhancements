@@ -1,4 +1,4 @@
-# FirefoxPrivacyEnhancements
+# Firefox Privacy Enhancements
 Customized user.js with privacy enhancements for Mozilla Firefox.
 
 Detailed info on  [https://www.andreafortuna.org/cybersecurity/privacy/mozilla-firefox-tweaks-for-enhanced-privacy/](https://www.andreafortuna.org/cybersecurity/privacy/mozilla-firefox-tweaks-for-enhanced-privacy/)
